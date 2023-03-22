@@ -1,0 +1,17 @@
+//buen entendimiento de problema a realizar
+
+//organización para realizar el problema comenzando por la entrada y salida
+
+//utilización adecuada de variables
+
+//manipulación correcta de array
+
+//salida correcta de los datos solicitados
+
+//variables adecuadas, pero podría utilizar camelCase para mayor precisión 
+
+//comentarios adecuados
+
+*ortografia
+
+ 
