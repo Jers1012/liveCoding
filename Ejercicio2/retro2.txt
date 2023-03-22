@@ -1,0 +1,13 @@
+Pros
+Bien en preguntar por cuanto tiempo te queda
+	- Demuestra que estas al tanto de que se tiene que 	entregar en cierto tiempo
+
+Bien entendido el fetch con sus .then
+
+
+Contras
+Se le habia ido desapercibido un ; en el fetch, por lo que perdio mucho tiempo buscando ese error
+
+id answer ya existia, pero no se dio cuenta y creo otro en el main y sin el nombre que pedia.
+
+No termino el programa.
